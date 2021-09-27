@@ -3,11 +3,18 @@ package introduction;
 public class AddingMethods {
 
 	public static void main(String[] args) {
-		getGrades("John", 90);
-		getGrades("Tom", 50);
+		String grade;
+
+		grade = getGrades(70);
+		displayGrades("John", grade);
+
+		grade = getGrades(50);
+		displayGrades("Tom", grade);
+
+
 	}
 
-	public static void getGrades(String studentName, int studentScore) {
+	public static String getGrades(int studentScore) {
 		String grade;
 		if (studentScore >= 90 && studentScore < 100) {
 			grade = "A";
@@ -22,6 +29,10 @@ public class AddingMethods {
 			grade = "D";
 		}
 
+		return grade;
+	}
+
+	public static void displayGrades(String studentName, String grade) {
 		System.out.println("Grade of " + studentName + " is: " + grade);
 	}
 
