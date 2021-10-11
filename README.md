@@ -18,4 +18,5 @@
 	- Find by tagname
 	- Find by xPath
 - Verder nog wat kleine tests uitgevoerd met elk van deze manieren
+- Css selectors aangeleerd
 
