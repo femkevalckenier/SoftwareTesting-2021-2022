@@ -24,4 +24,8 @@
 
 ## Week 4 (11/10/2021) - 4 uur gewerkt
 - Advanced XPath selectors
+	- Building an effective XPath
+	- Buildng XPath using "Contains"
+	- Building XPath using "Starts-With"
+	- Finding parent and sibling notes
 
