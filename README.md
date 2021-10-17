@@ -22,3 +22,6 @@
 - Verder nog wat kleine tests uitgevoerd met elk van deze manieren
 - Css selectors aangeleerd
 
+## Week 4 (11/10/2021) - 4 uur gewerkt
+- Advanced XPath selectors
+
