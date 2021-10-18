@@ -30,3 +30,4 @@
 	- Finding parent and sibling notes
 - Selenium WebDriver -> Working with web elements
 	- Introduction to JUnit
+		- Basic JUnit tests uitgevoerd op SmartApps project
