@@ -31,3 +31,12 @@
 - Selenium WebDriver -> Working with web elements
 	- Introduction to JUnit
 		- Basic JUnit tests uitgevoerd op SmartApps project
+
+## Week 5 (18/10/2021)
+- JUnit
+	- WebElement class
+	- Navigating between web pages
+	- States of web elements
+	- Radio Buttons & Checkboxes
+	- Working with a list of elements
+	- Dropdown elements
