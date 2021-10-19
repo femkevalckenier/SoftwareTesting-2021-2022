@@ -40,3 +40,7 @@
 	- Radio Buttons & Checkboxes
 	- Working with a list of elements
 	- Dropdown elements
+	- Multiple select elements
+	- Hidden elements
+- ChromeOptions and Profiles
+	- Bring up Chrome with extensions
