@@ -44,3 +44,7 @@
 	- Hidden elements
 - ChromeOptions and Profiles
 	- Bring up Chrome with extensions
+
+- Useful methods and properties
+	- GetText() of an element
+	- GetAttribute() of an element
