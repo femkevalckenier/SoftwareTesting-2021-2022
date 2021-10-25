@@ -32,7 +32,7 @@
 	- Introduction to JUnit
 		- Basic JUnit tests uitgevoerd op SmartApps project
 
-## Week 5 (18/10/2021)
+## Week 5 (18/10/2021) - 4 uur gewerkt
 - JUnit
 	- WebElement class
 	- Navigating between web pages
@@ -47,3 +47,5 @@
 - Useful methods and properties
 	- GetText() of an element
 	- GetAttribute() of an element
+
+## Week 6 (25/10/2021)
