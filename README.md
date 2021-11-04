@@ -49,3 +49,9 @@
 	- GetAttribute() of an element
 
 ## Week 6 (25/10/2021)
+- Useful methods and properties
+	- Generic method to find elements
+	- Generic method to find element list
+	- Check if element is present
+	- Code refactoring
+- Wait types & handling synchronization issues
