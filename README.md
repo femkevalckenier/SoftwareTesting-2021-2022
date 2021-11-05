@@ -55,3 +55,7 @@
 	- Check if element is present
 	- Code refactoring
 - Wait types & handling synchronization issues
+	- Implicit vs Explicit wait
+	- Implicit wait practical example
+	- Explicit wait practical example
+	- Generic methods to work with explicit wait
