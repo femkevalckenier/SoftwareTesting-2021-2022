@@ -48,7 +48,7 @@
 	- GetText() of an element
 	- GetAttribute() of an element
 
-## Week 6 (25/10/2021)
+## Week 6 (25/10/2021) - 4 uur gewerkt
 - Useful methods and properties
 	- Generic method to find elements
 	- Generic method to find element list
@@ -59,3 +59,9 @@
 	- Implicit wait practical example
 	- Explicit wait practical example
 	- Generic methods to work with explicit wait
+
+## Week 8 (08/11/2021)
+- Advanced interactions
+	- Working with date pickers
+	- Working with dynamic dropdowns
+	- Additional examples
