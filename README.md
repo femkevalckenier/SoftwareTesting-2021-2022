@@ -64,4 +64,4 @@
 - Advanced interactions
 	- Working with date pickers
 	- Working with dynamic dropdowns
-	- Additional examples
+	- Taking screenshots
