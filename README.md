@@ -60,8 +60,15 @@
 	- Explicit wait practical example
 	- Generic methods to work with explicit wait
 
-## Week 8 (08/11/2021)
+## Week 8 (08/11/2021) - 2 uur gewerkt
 - Advanced interactions
 	- Working with date pickers
 	- Working with dynamic dropdowns
 	- Taking screenshots
+
+## Week 10 (22/11/2021)
+- JavaScript Execution
+	- Executing JavaScript commands
+	- Find size of a window
+	- Scroll element into view
+	- Click element using JavaScript execution
