@@ -6,17 +6,16 @@ import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 import java.util.concurrent.TimeUnit;
 
-public class ClickElementUsingJavascript {
+public class ClickElementUsingJavascript2 {
     private WebDriver driver;
     private JavascriptExecutor js;
 
     @Before
-    public void setUp() throws Exception {
+    private void setUp() throws Exception {
         driver = new ChromeDriver();
         js = (JavascriptExecutor) driver;
 
@@ -25,16 +24,13 @@ public class ClickElementUsingJavascript {
     }
 
     @Test
-    public void testJSClick() throws Exception {
-        driver.get("https://courses.letskodeit.com/practice");
-        Thread.sleep(2000);
-
-        WebElement checkBox = driver.findElement(By.id("bmwradio"));
-        js.executeScript("arguments[0].click();", checkBox);
+    private void testJSClick2() throws Exception {
+        js.executeScript("window.location = 'https://www.retailmenot.com/';");
+        driver.findElement(By.xpath("//div[@id='__next']/div[@role='banner']//button[.='Log&nbsp;in']")).click();
     }
 
     @After
-    public void tearDown() throws Exception {
+    private void tearDown() throws Exception {
         Thread.sleep(2000);
         driver.quit();
     }
