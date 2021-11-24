@@ -72,3 +72,7 @@
 	- Find size of a window
 	- Scroll element into view
 	- Click element using JavaScript execution
+- Switch Window and IFrames
+	- Switch to window
+	- Switch to IFrame
+	- Handling JavaScript popup
