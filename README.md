@@ -76,3 +76,6 @@
 	- Switch to window
 	- Switch to IFrame
 	- Handling JavaScript popup
+- Working with Actions Class
+	- Mouse hover actions
+	- Drag and drop elements
