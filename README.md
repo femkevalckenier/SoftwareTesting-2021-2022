@@ -66,7 +66,7 @@
 	- Working with dynamic dropdowns
 	- Taking screenshots
 
-## Week 10 (22/11/2021)
+## Week 10 (22/11/2021) - 4 uur gewerkt
 - JavaScript Execution
 	- Executing JavaScript commands
 	- Find size of a window
@@ -79,3 +79,11 @@
 - Working with Actions Class
 	- Mouse hover actions
 	- Drag and drop elements
+
+## Week 11 (29/11/2021)
+- Demo uitgewerkt voor rapportering
+	- Elementen aanklikken
+	- Selecteren uit een dropdown
+	- Selecteren uit een multiple select
+	- Switchen naar een andere window
+	- Scrollen op een pagina
