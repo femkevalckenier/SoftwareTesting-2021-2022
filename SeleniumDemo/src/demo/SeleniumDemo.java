@@ -133,6 +133,15 @@ public class SeleniumDemo {
         js.executeScript("window.scrollBy(0, -1900)");
     }
 
+    @Test
+    public void logIn() throws Exception {
+        Thread.sleep(2000);
+
+        driver.findElement(By.xpath("//div[@id='navbar-inverse-collapse']/div//a[@href='/login']")).click();
+        driver.findElement(By.id("email")).sendKeys("femke.valckenier2@student.odisee.be");
+        driver.findElement(By.id("password")).sendKeys("password");
+    }
+
     @After
     public void tearDown() throws Exception {
         Thread.sleep(3000);
