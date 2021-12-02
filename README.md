@@ -87,3 +87,11 @@
 	- Selecteren uit een multiple select
 	- Switchen naar een andere window
 	- Scrollen op een pagina
+- Key Press Events
+	- Press keyboard keys
+	- Send a key combination
+	- Keypress events using actions class
+- Automation Framework
+	- Page object model
+	- Creating object repository and page class
+	- Page factory
