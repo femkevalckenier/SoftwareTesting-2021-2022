@@ -95,3 +95,9 @@
 	- Page object model
 	- Creating object repository and page class
 	- Page factory
+- Using Log4j2
+	- Log4j2 introduction
+	- Using default configuration
+	- Using configuration file - console logging
+	- Using configuration file - file logging
+	- Working with custom loggers
