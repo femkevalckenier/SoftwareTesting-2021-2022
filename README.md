@@ -80,7 +80,7 @@
 	- Mouse hover actions
 	- Drag and drop elements
 
-## Week 11 (29/11/2021)
+## Week 11 (29/11/2021) - 6 uur gewerkt
 - Demo uitgewerkt voor rapportering
 	- Elementen aanklikken
 	- Selecteren uit een dropdown
@@ -101,3 +101,10 @@
 	- Using configuration file - console logging
 	- Using configuration file - file logging
 	- Working with custom loggers
+
+## Week 12 (06/12/2021)
+- TestNG Setup
+	- TestNG Introduction
+	- TestNG Setup
+- TestNG -> Annotations and Asserts
+	- TestNG Asserts
