@@ -108,3 +108,13 @@
 	- TestNG Setup
 - TestNG -> Annotations and Asserts
 	- TestNG Asserts
+
+## Week 13 (13/12/2021)
+- TestNG -> Annotations and Asserts
+	- TestNG Soft Asserts
+	- Method and Class annotations
+	- Running a Test Suite
+	- BeforeSuite and AfterSuite annotations
+	- BeforeTedt and AfterTest annotations
+- TestNG -> Advanced Features
+- TestNG -> Parameters and Parallel
